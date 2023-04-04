@@ -1,5 +1,6 @@
 # Digital-On-Off-Control
 The goal in this case study is to provide an understanding of the issues and techniques for on/off control using an embedded microcontroller.
+
 Feedback control involves the measuring of a sensor signal and deriving an input to the system to
 produce a required response in real time. While feedback control often involves the measurement
 and use of continuous (analog) signals, a very large number of embedded control applications
